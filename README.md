@@ -1,11 +1,11 @@
 # grade
-Python Notebook: A Statistical Study of Orthodox and Novel Grading Strategies
+<h3>Python Notebook: A Statistical Study of Orthodox and Novel Grading Strategies
+How Does A Novel Grading Policy Affect Assigned Grade? </h3>
 
-How Does A Novel Grading Policy Affect Assigned Grade? 
 L. Van Warren 
-
 Wed, Jan 30, 2019 ¶
 
+<pre>
 Group A students (orthodox) not handing in an assignment receive  0/100 points.<br>
 Group B students (novel)    not handing in an assignment receive 50/100 points.
 
@@ -19,3 +19,4 @@ For best results run more than one experiment.
 
 You can set max_grade at the top to see results on a 4.0 or 100 percent scale.
 Changing max_grade requires that the entire sheet to be re-executed.
+</pre>
