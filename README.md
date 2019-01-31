@@ -1,5 +1,6 @@
 # grade
-<h3>Python Notebook: A Statistical Study of Orthodox and Novel Grading Strategies:<br>
+<h3>Python Notebook:<br>
+A Statistical Study of Orthodox and Novel Grading Strategies:<br>
 How Does A Novel Grading Policy Affect Assigned Grade? </h3>
 
 L. Van Warren 
