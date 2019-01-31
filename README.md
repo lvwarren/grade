@@ -6,7 +6,7 @@ L. Van Warren
 
 Wed, Jan 30, 2019 ¶
 
-Group A students (orthodox) not handing in an assignment receive  0/100 points.
+Group A students (orthodox) not handing in an assignment receive  0/100 points.<br>
 Group B students (novel)    not handing in an assignment receive 50/100 points.
 
 My question is, how does this affect the distribution of letter grades?
