@@ -5,7 +5,7 @@ How Does A Novel Grading Policy Affect Assigned Grade? </h3>
 
 L. Van Warren 
 Wed, Jan 30, 2019 ¶
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lvwarren/grade.git/master)
 <pre>
 Group A students (orthodox) not handing in an assignment receive  0/100 points.<br>
 Group B students (novel)    not handing in an assignment receive 50/100 points.
